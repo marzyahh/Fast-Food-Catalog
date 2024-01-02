@@ -1,0 +1,19 @@
+.card{
+    opacity: 0;
+}
+
+.card__placeholder{
+    height: 280px;
+}
+
+@keyframes identifier {
+
+    0%{
+        background: rgb(220, 212, 212);
+    }
+    100%{
+        background: rgb(185, 182, 182);
+
+    }
+    
+}
