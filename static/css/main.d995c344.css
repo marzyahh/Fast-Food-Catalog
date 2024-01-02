@@ -1,0 +1,2 @@
+body{overflow-y:scroll}@keyframes fadeInHoriz{0%{opacity:0;transform:translateX(20px)}to{opacity:1;transform:translateX(0)}}.fade-in-horiz{animation:fadeInHoriz .8s ease forwards}.wrapper{min-height:100vh}header{background-image:url(/Fast-Food-Catalog/static/media/header-background.75e1292fc1693fc8838e.jpg);height:200px;letter-spacing:3px}.card{opacity:0}.card__placeholder{height:280px}@keyframes identifier{0%{background:#dcd4d4}to{background:#b9b6b6}}
+/*# sourceMappingURL=main.d995c344.css.map*/

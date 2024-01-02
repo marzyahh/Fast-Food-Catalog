@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Fast-Food-Catalog/static/css/main.d995c344.css",
+    "main.js": "/Fast-Food-Catalog/static/js/main.21621c76.js",
+    "static/media/header-background.jpg": "/Fast-Food-Catalog/static/media/header-background.75e1292fc1693fc8838e.jpg",
+    "static/media/404.png": "/Fast-Food-Catalog/static/media/404.2144b2fb01ea7366114c.png",
+    "index.html": "/Fast-Food-Catalog/index.html",
+    "main.d995c344.css.map": "/Fast-Food-Catalog/static/css/main.d995c344.css.map",
+    "main.21621c76.js.map": "/Fast-Food-Catalog/static/js/main.21621c76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d995c344.css",
+    "static/js/main.21621c76.js"
+  ]
+}
